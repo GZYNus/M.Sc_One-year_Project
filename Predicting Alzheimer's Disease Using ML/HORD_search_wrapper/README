@@ -1,1 +1,1 @@
-HORD is an automatic hyperparameter search method. 
+HORD is an automatic hyperparameter search method.  It can overcome the disadvantage of BO model, which is that probabilistic surrogates require accurate estimates of sufficient statistics (including covariance), thus need many function evaluations with a sizeable number of hyperparameters. It uses the 3rd order cubic spline RBF as the surrogate model and Latin Hypercube Sampling method.
