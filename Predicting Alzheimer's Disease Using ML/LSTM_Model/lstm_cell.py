@@ -2,20 +2,6 @@ import torch
 import torch.nn as nn
 
 
-# class LSTMcell(nn.Module):
-#     def __init__(self, input_size, hidden_size, output_size, num_layer):
-#         super(LSTMcell, self).__init__()
-#         self.lstm = nn.LSTM(input_size, hidden_size, num_layer)
-#         self.fc = nn.Linear(hidden_size, output_size)
-#
-#     def forward(self, input):
-#         x, _ = self.lstm(input)
-#         s, b, h = x.shape
-#         x = x.view(s*b, h)
-#         output = self.fc(x)
-#         return output
-
-
 class LSTMcell(nn.Module):
     def __init__(self, input_size, hidden_size):
         super(LSTMcell, self).__init__()
