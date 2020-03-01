@@ -1,12 +1,8 @@
 #!/usr/bin/env python
 """
-Description:
-This is the basic cell of DNN, it is just one layer
-We could use single layer to construct multiple layer DNN
-Date: 15/11/19 
-Email: anlijuncn@gmail.com
-Writen by Lijun AN and CBIG under MIT license:
-https://github.com/ThomasYeoLab/CBIG/blob/master/LICENSE.md
+Description: this is the basic cell of DNN, which includes one fully-connected layer, batch normalization and Xavier initialization method.
+Email: gzynus@gmail.com
+Author: Guo Zongyi
 """
 import math
 import torch
