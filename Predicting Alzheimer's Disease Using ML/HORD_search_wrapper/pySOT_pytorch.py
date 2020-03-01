@@ -1,6 +1,6 @@
 """
 Hord Algorithm Implementation
-Author:ljan@CBIG
+Author:Zongyi & Lijun
 """
 import os
 import warnings
