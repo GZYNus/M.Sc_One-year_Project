@@ -1,3 +1,2 @@
-# this is the tittle
-* hi
-  *hello
+# Lib
+Self-defined functions to simplify the main function.
