@@ -1,10 +1,8 @@
 #!/usr/bin/env python
 """
 Description: Check whether the train dataset is containing non NaN label
-Date: 17/11/19 
-Email: anlijuncn@gmail.com
-Writen by Lijun AN and CBIG under MIT license:
-https://github.com/ThomasYeoLab/CBIG/blob/master/LICENSE.md
+Email: gzynus@gmail.com
+Author: Zongyi
 """
 import os
 import numpy as np
