@@ -1,6 +1,6 @@
 """
 HORD algorithm implementation
-Author: ljan@CBIG
+Author: Zongyi@CBIG
 """
 import os
 import argparse
