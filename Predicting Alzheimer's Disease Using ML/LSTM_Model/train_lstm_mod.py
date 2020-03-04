@@ -1,7 +1,7 @@
 """
-A wrapper function for training and validation, used for HORD search
-Writen by Lijun AN and CBIG under MIT license:
-https://github.com/ThomasYeoLab/CBIG/blob/master/LICENSE.md
+Description: a wrapper function for training and validation, used for HORD search
+Email: gzynus@gmail.com
+Arthur: Zongyi Guo
 """
 import warnings
 import os
